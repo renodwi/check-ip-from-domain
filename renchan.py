@@ -3,9 +3,9 @@ from os import system, name
 
 os.system("clear")
 print("----------------------------------------");
-print("\033[1;32;40m > IP CHECKER <")
-print("\033[1;32;40m CONTOH DOMAIN www.google.com");
-print("\033[1;32;40m Creator: RenChan\n");
+print("> IP CHECKER <")
+print("CONTOH DOMAIN www.google.com");
+print("Creator: RenChan\n");
 
 domain = str(input("DOMAIN:"))
 
