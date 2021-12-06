@@ -1,3 +1,4 @@
+import socket as s
 import os
 from os import system, name
 
