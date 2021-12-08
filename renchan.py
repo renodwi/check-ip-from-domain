@@ -6,7 +6,7 @@ os.system("clear")
 print("----------------------------------------");
 print("> IP CHECKER <")
 print("CONTOH DOMAIN www.google.com");
-print("Creator: RenChan\n");
+print("Creator: rndwst\n");
 
 domain = str(input("DOMAIN:"))
 
